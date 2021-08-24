@@ -162,7 +162,7 @@ class: top, center
 ]
 
 <video width="400" height="300" autoplay loop muted>
-		<source src="../images/tagged_cisco_recovery_sm.mp4" type="video/mp4"/>
+		<source src="../images/tagged_cisco_recovery_sm.webm" type="video/webm"/>
 </video>
 
 ---
