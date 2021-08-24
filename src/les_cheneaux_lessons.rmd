@@ -161,7 +161,8 @@ class: top, center
   - We used submersable utility pumps, short hoses and clamps to regulate
 ]
 
-<video src="../images/tagged_cisco_recovery_sm.webm" type="video/webm">
+<video width="400" height="300" autoplay loop muted preload>
+	<source src="../images/tagged_cisco_recovery_sm.webm"></source>
 </video>
 
 ---
