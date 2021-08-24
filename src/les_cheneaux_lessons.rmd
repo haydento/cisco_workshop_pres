@@ -56,9 +56,9 @@ class: top, center
 ]
 
 <div class="flex2">
-	<img src="../images/full_array.png" width="40%" height="40%">
+	<img src="../images/full_array.png" width="40%" height="40%" />
 	<img src="../images/ice_shanty_cisco_tagging_winter.JPG" width="40%"
-	height="40%">
+	height="40%" />
 </div>
 
 ---
@@ -104,8 +104,7 @@ class: top, center
 ]
 
 .center[
-<img src="../images/cisco_in_cauldron_before_tagging_cholbrook_20181108.JPG"
-width="40%" height="40%"/>
+<img src="../images/cisco_cauldron_bf_tagging.JPG" width="40%" height="40%"/>
 ]
 
 ---
