@@ -51,14 +51,13 @@ class: top, center
 .left[
 - 2017 field tagging trials (tagged few fish, Government Bay)
 - 2018 preliminary project (28 receivers, 25 V9 tags)
-- 2019--2021 full project (200 tags, 120 receivers)
+- 2019-2021 full project (200 tags, 120 receivers)
 - 2020 winter- tagging under ice (gill nets)
 ]
 
 <div class="flex2">
 	<img src="../images/full_array.png" width="40%" height="40%" />
-	<img src="../images/ice_shanty_cisco_tagging_winter.JPG" width="40%"
-	height="40%" />
+	<img src="../images/ice_tagging_winter.JPG" width="40%" height="40%" />
 </div>
 
 ---
