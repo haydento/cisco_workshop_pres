@@ -1,0 +1,184 @@
+---
+title: "cisco workshop"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "more_styles.css"]
+    self_contained: true
+    chakra: ../libs/remark-latest.min.js
+    nature:
+      ratio: "16:9"
+---
+
+class: title-slide, center
+
+# Tagging cisco: Lessons from the Les Cheneaux Islands
+
+## Todd Hayden, Chris Holbrook
+
+.center[<img src="../images/cisco_drawing.png" width="45%" height="45%"/>]
+
+<div class="flex2">
+	<img src="../images/MSU.png" width="20%" height="20%"/>
+	<img src="../images/USGS.png" width="20%" height="20%"/>
+</div>
+
+---
+
+class: top, center
+
+# Acknowledgments
+
+.left[
+- Hammond Bay Biological Station
+- Michigan Department of Natural Resources
+- US Fish and Wildlife Service
+- Real-Time Aquatic Ecosystem Observation Network
+- Great Lakes Fishery Commission
+- Great Lakes Acoustic Telemetry Observation System
+]
+
+
+.center[
+<img src="../images/icy_night.JPG" width="30%" height="30%" />
+]
+
+---
+class: top, center
+
+# History
+
+.left[
+- 2017 field tagging trials (tagged few fish, Government Bay)
+- 2018 preliminary project (28 receivers, 25 V9 tags)
+- 2019--2021 full project (200 tags, 120 receivers)
+- 2020 winter- tagging under ice (gill nets)
+]
+
+<div class="flex2">
+	<img src="../images/full_array.png" width="40%" height="40%">
+	<img src="../images/ice_shanty_cisco_tagging_winter.JPG" width="40%"
+	height="40%">
+</div>
+
+---
+class: top, center
+
+# Capture
+.left[
+- Nighttime electrofishing
+  - Peak spawn- November 10-15
+  - ~ 84% survival (6 months)
+  - Tagged during peak spawn ~ 10-15' water 
+  - Fish not available before/after spawning (too deep!)
+]
+
+.center[
+<img src="../images/cisco_efish_boat_LesCheneaux_cholbrook_20181108.JPG" width="38%" height="38%"/>
+]
+
+---
+class: top, center
+# Capture
+.left[
+- Gill net 
+  - Difficult or no recovery
+  - Tried under ice gill nets, 20 minute soak, ~ 8% survival (6 months)
+  - Lots of "rope burns"
+]
+
+.center[
+<img src="../images/inside_ice_shanty_cisco_tagging_winter.JPG" width="18%" height="18%"/>
+]
+
+---
+class: top, center
+
+# Post-capture care
+.left[
+- Goal: minimize handling time
+- Capture 1-10 fish, transfer fish to waiting "transport boat" and
+    Moved to shore
+- Hold fish in flow-through .red[ROUND] tank (4') with .red[FLOW]
+- Surgery immediately after fish "recovered" from electrofishing
+]
+
+.center[
+<img src="../images/cisco_in_cauldron_before_tagging_cholbrook_20181108.JPG"
+width="40%" height="40%"/>
+]
+
+---
+class: top, center
+
+# Surgery
+.left[
+- Tent, propane heater to prevent ice formation on fish and us!
+- V9 tags, fish ~ 400 mm TL
+- TENS electro mobilization
+- <2 min surgery, 2 interrupted sutures
+- Constant water flow over gills
+]
+
+<div class="flex2">
+	<img src="../images/tent1.JPG" width="30%" height="30%"/>
+	<img src="../images/tent2.JPG" width="30%" height="30%"/>
+	<img src="../images/fish_on_surgery_table.JPG" width="30%" height="30%"/>
+</div>
+
+---
+class: top, center
+
+
+# Recovery
+
+.left[
+- fish released as soon as swimming on own and able to maintain
+orientation
+- dedicated nurse- gently "assist" fish when upside down
+  - upside down cisco needs immediate care to prevent death!
+- cisco are finicky- some fish appeared dead in recovery but swam off
+after release.
+]
+
+
+<div class="flex2">
+    <img src="../images/cisco_nurse_assist.JPG" width="30%" height="30%"/>
+	<img src="../images/recovery_tank.JPG" width="30%" height="30%"/>
+</div>
+
+---
+class: top, center
+
+# Tanks and flow
+
+.left[
+- Round tanks with sufficient flow flow is critical
+  - Rectangular/oval/cattle troughs result in "stuck fish"
+- How much flow?
+  - Fish should be swimming against current away from side ("endless
+    pool")
+  - Not enough water flow- fish turn over upside-down, die
+  - Too much water flow- fish scrape tank sides
+  - We used submersable utility pumps, short hoses and clamps to regulate
+]
+
+<video width="400" height="300" autoplay loop muted>
+		<source src="../images/tagged_cisco_in_recovery_01_cholbrook_20181108.mp4" type="video/mp4"/>
+</video>
+
+---
+class: top, center
+
+# Take-home ideas
+
+.left[
+- Minimize handling, time in tanks
+- Round tanks are critical
+- Water flow
+- TENs for electro immobilization- quick recovery
+- release immediately after fish has regained ability to swim
+]
+
+
+.center[<img src="../images/cisco_on_surgery_table.JPG" width="40%" height="40%"/>]
