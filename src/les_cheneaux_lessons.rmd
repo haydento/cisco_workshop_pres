@@ -49,10 +49,10 @@ class: top, center
 # History
 
 .left[
-- 2017 field tagging trials (tagged few fish, Government Bay)
+- 2017 field tagging trials (Government Bay)
 - 2018 preliminary project (28 receivers, 25 V9 tags)
 - 2019-2021 full project (200 tags, 120 receivers)
-- 2020 winter- tagging under ice (gill nets)
+- 2020 winter- capture fish under ice (gill nets)
 ]
 
 <div class="flex2">
@@ -65,11 +65,11 @@ class: top, center
 
 # Capture
 .left[
-- Nighttime electrofishing
-  - Peak spawn- November 10-15
+- Electrofishing (night)
+  - Peak spawn- approximately November 15
+  - <4 m water depth during spawn
+  - not available before/after spawning (fish are deep!)
   - ~ 84% survival (6 months)
-  - Tagged during peak spawn ~ 10-15' water 
-  - Fish not available before/after spawning (too deep!)
 ]
 
 .center[
@@ -81,9 +81,9 @@ class: top, center
 # Capture
 .left[
 - Gill net 
-  - Difficult or no recovery
-  - Tried under ice gill nets, 20 minute soak, ~ 8% survival (6 months)
-  - Lots of "rope burns"
+  - Very effective during fall- USFWS
+  - Difficult or no recovery, rope burns, lost scales
+  - Tried under ice gill nets, ~20 min soak, ~ 8% survival (6 months)
 ]
 
 .center[
@@ -95,11 +95,11 @@ class: top, center
 
 # Post-capture care
 .left[
-- Goal: minimize handling time
-- Capture 1-10 fish, transfer fish to waiting "transport boat" and
-    Moved to shore
-- Hold fish in flow-through .red[ROUND] tank (4') with .red[FLOW]
-- Surgery immediately after fish "recovered" from electrofishing
+- Minimize handling time
+- Capture <10 fish, transfer fish to waiting "transport boat", tagged
+on shore
+- Hold fish in flow-through .red[ROUND] tank (> 1 m) with .red[FLOW]
+- Surgery immediately after fish "recover" from electrofishing
 ]
 
 .center[
@@ -111,11 +111,13 @@ class: top, center
 
 # Surgery
 .left[
-- Tent, propane heater to prevent ice formation on fish and us!
-- V9 tags, fish ~ 400 mm TL
-- TENS electro mobilization
-- <2 min surgery, 2 interrupted sutures
+- Tent, heater to prevent ice formation on fish and us!
+- V9 tags, fish ~ 400 mm TL, water temp 4-5 C
+- Record TL, no external tag
+- TENS electro-immobilisation
+- <2 min surgery, 2 sutures
 - Constant water flow over gills
+- < 1 hour from capture to releases
 ]
 
 <div class="flex2">
@@ -131,12 +133,9 @@ class: top, center
 # Recovery
 
 .left[
-- fish released as soon as swimming on own and able to maintain
-orientation
-- dedicated nurse- gently "assist" fish when upside down
-  - upside down cisco needs immediate care to prevent death!
-- cisco are finicky- some fish appeared dead in recovery but swam off
-after release.
+- Fish released when able to maintain orientation
+- Dedicated nurse- gently "assist" fish when upside down
+  - Upside down cisco needs care to prevent death!
 ]
 
 
@@ -151,14 +150,14 @@ class: top, center
 # Tanks and flow
 
 .left[
-- Round tanks with sufficient flow flow is critical
+- Round tanks critical, flow through
   - Rectangular/oval/cattle troughs result in "stuck fish"
 - How much flow?
   - Fish should be swimming against current away from side ("endless
     pool")
-  - Not enough water flow- fish turn over upside-down, die
-  - Too much water flow- fish scrape tank sides
-  - We used submersable utility pumps, short hoses and clamps to regulate
+  - Insufficient flow- fish turn upside down
+  - Excessive flow- fish scrape tank sides
+  - We used submersable utility pumps, short hoses, clamps to regulate
 ]
 
 <video width="400" height="300" autoplay loop muted preload>
@@ -173,9 +172,8 @@ class: top, center
 .left[
 - Minimize handling, time in tanks
 - Round tanks are critical
-- Water flow
-- TENs for electro immobilization- quick recovery
-- release immediately after fish has regained ability to swim
+- Sufficient water flow in tanks to promote swimming, flow-through 
+- TENS electro-immobilisation- quick recovery
 ]
 
 
